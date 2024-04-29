@@ -1,0 +1,12 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "c:\\Program Files\\Eclipse Adoptium\\jdk-21.0.2.13-hotspot",
+      "default": true
+    }
+  ],
+  "java.jdt.ls.java.home": "c:\\Program Files\\Eclipse Adoptium\\jdk-21.0.2.13-hotspot"
+}

@@ -1,0 +1,34 @@
+
+characterTest.png
+size: 128, 32
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+walking_forward
+  rotate: false
+  xy: 2, 2
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: 1
+walking_forward
+  rotate: false
+  xy: 21, 2
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: 2
+walking_forward
+  rotate: false
+  xy: 40, 2
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: 3
+walking_forward
+  rotate: false
+  xy: 59, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: 4
